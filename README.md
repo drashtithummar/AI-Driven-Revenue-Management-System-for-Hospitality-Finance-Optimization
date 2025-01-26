@@ -55,7 +55,7 @@ Identifies opportunities for upselling or cross-selling services like room upgra
 
 Tracks energy usage and operational costs, helping hospitality businesses align with ESG (Environmental, Social, Governance) goals.
 Implementation Plan
-### . Data Collection:
+### 6. Data Collection:
 
 Collect historical booking and pricing data from the hotel management system.
 Integrate live streams using Apache Kafka for real-time updates.
